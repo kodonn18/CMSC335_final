@@ -1,7 +1,7 @@
 Team Members:
     Daniel Zhang: (dzhang17)
     Min Jang: (mjang1)
-    Kevin O'Donnell (kodonn16)
+    Kevin O'Donnell (kodonn18)
 
 App Description:
     It is an application that will be used to keep track of your exercise instances. You can log your exercise sessions, and also help you start by searching through an API 
